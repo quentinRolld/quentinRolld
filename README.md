@@ -1,5 +1,5 @@
 Welcome to my Git,
-I store here the collection of projects that I have carried out these last years.
+I store here the collection of \textbf{personnal} projects that I have carried out these last years.
 
 
 - I am quentin rolland 
